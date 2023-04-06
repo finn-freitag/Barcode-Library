@@ -1,0 +1,6 @@
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\Barcode\bin\Debug\Barcode.dll
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\Barcode\bin\Debug\Barcode.pdb
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\Barcode\obj\Debug\Barcode.csproj.AssemblyReference.cache
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\Barcode\obj\Debug\Barcode.csproj.CoreCompileInputs.cache
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\Barcode\obj\Debug\Barcode.dll
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\Barcode\obj\Debug\Barcode.pdb

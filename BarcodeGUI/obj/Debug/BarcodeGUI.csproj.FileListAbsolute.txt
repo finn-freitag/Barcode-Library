@@ -1,0 +1,14 @@
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\BarcodeGUI\bin\Debug\BarcodeGUI.exe.config
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\BarcodeGUI\bin\Debug\BarcodeGUI.exe
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\BarcodeGUI\bin\Debug\BarcodeGUI.pdb
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\BarcodeGUI\bin\Debug\Barcode.dll
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\BarcodeGUI\bin\Debug\Barcode.pdb
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\BarcodeGUI\obj\Debug\BarcodeGUI.csproj.AssemblyReference.cache
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\BarcodeGUI\obj\Debug\BarcodeGUI.csproj.SuggestedBindingRedirects.cache
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\BarcodeGUI\obj\Debug\BarcodeGUI.Form1.resources
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\BarcodeGUI\obj\Debug\BarcodeGUI.Properties.Resources.resources
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\BarcodeGUI\obj\Debug\BarcodeGUI.csproj.GenerateResource.cache
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\BarcodeGUI\obj\Debug\BarcodeGUI.csproj.CoreCompileInputs.cache
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\BarcodeGUI\obj\Debug\BarcodeGUI.csproj.CopyComplete
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\BarcodeGUI\obj\Debug\BarcodeGUI.exe
+C:\Benutzerdaten\Finn\Programme\C#\Barcode\BarcodeGUI\obj\Debug\BarcodeGUI.pdb
