@@ -19,7 +19,14 @@ namespace BarcodeGUI
 
         private void button1_Click(object sender, EventArgs e)
         {
-            pictureBox1.Image = Barcode.Code39.Create(textBox1.Text, 25, 75, 3, checkBox1.Checked);
+            if(comboBox1.Text == "Code128")
+            {
+                pictureBox1.Image = Barcode.Code128.Create(textBox1.Text, 75, 75, 2);
+            }
+            if(comboBox1.Text == "Code39")
+            {
+                pictureBox1.Image = Barcode.Code39.Create(textBox1.Text, 75, 75, 2, checkBox1.Checked);
+            }
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
